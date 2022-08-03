@@ -1,0 +1,31 @@
+const en = {
+  Step1: "Applicant's Information",
+  Step2: "Father's Data",
+  Step3: "Mother's Data",
+  Step4: "Other's Data",
+  Step5: "Resume",
+  // Mensajes
+  Required: "Please fill this field",
+  Min: "Required Character",
+  DateTitle: "Select a date",
+  LocalDate: "en",
+  Back: "Back",
+  Next: "Next",
+  // Paso 1
+  FirstName: "FirstName",
+  LastName: "LastName",
+  DateBirth: "DateBirth",
+  Nacionality: "Nacionality",
+  Sex: "Sex",
+  Male: "Male",
+  Female: "Female",
+  PlaceBirth: "Place of Birth",
+  Country: "Country",
+  City: "City",
+  NeighBor: "NeighBorhood",
+  Address: "Address",
+  Previous: "Previous School/Nursery",
+  AddresSchool: "Address",
+  CelSchool: "Telephone",
+};
+export default en;
